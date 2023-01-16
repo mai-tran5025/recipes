@@ -1,6 +1,1 @@
-# recipes >> README.md
-echo # recipes >> README.md
-
-echo # recipes
-# recipes
-# recipes
+This is a project for managing cafe_recipes 
